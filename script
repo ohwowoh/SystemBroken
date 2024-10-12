@@ -169,7 +169,7 @@ local function CheckPotion()
 	end
 end
 
-local function Push(Target)
+local function Push(Raccoon_Rice)
 	local Push = GetPush()
 	local FixTool = nil
 	if Push ~= nil then
